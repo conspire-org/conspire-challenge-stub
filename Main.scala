@@ -10,6 +10,6 @@ object Main {
    * Read lines from objects (files) on S3, sort and emit JSON
    */
   def main(args: Array[String]) = {
-    println("TO DO: Read lines from S3 objects, sort and emit JSON")
+    println("Read lines from S3 objects, sort and emit JSON. Done?")
   }
 }
