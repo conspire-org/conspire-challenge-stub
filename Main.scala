@@ -2,9 +2,9 @@ package com.goconspire.challenge
 
 object Main {
   
-  val AccessKeyId = "AKIAIOUEV6VODHMHACZQ"
-  val SecretAccessKey = "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"
-  val Bucket = "conspire-challenge"
+  val AccessKeyId     = // REQUIRED
+  val SecretAccessKey = // REQUIRED
+  val Bucket          = "conspire-challenge"
   
   /**
    * Read lines from objects (files) on S3, sort and emit JSON
